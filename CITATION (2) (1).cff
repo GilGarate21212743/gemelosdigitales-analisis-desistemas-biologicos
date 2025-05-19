@@ -15,17 +15,17 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/GilGarate21212743/gemelosdigitales-modelizadomatematico
+      https://github.com/GilGarate21212743/gemelosdigitales-analisis-desistemas-biologicos
 abstract: |2-
    Tecnologico Nacional de México 
    Instituto Tecnologico de Tijuana
    Ingeniería Biomédica 
    Gemelos Digitales
-   Práctica 4- Modelizado Matemático
+   Práctica 5- Análisis de Sistemas Biologicos
 keywords:
- - Lotka-Volterra model
- - Nonlinear regression
- - Equilibrium points
- - Jacobian stability analysis
- - Tumor-normal cell dynamics
+- Cellular dynamics
+- Three-compartment interaction
+- Bifurcation parameter
+- Numerical simulation
+- Cycle limit
 license: BSD-2-Clause 
