@@ -8,10 +8,18 @@ Gil Gárate Carlos Andrés
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212743@tectijuana.edu.mx
 
 ## Resumen de la práctica
-
+En esta práctica se analiza un sistema biológico tricompartimental que modela la interacción entre células sanas, células patológicas y células efectoras del sistema inmunológico. A través de la simulación y el estudio de ecuaciones diferenciales de primer orden, se examina el comportamiento dinámico del sistema bajo distintos valores del parámetro de bifurcación. Se observan fenómenos como atractores caóticos, órbitas periódicas, ciclos límite internos y externos, y puntos de equilibrio. Además, se realiza un análisis tanto con modelos normalizados como no normalizados, y se evalúa la estabilidad local mediante el cálculo de puntos de equilibrio y matrices Jacobianas, tanto en condiciones con tratamiento como sin tratamiento.
 
 ## Objetivos específicos
+1. Simular el comportamiento del sistema biológico utilizando ecuaciones diferenciales de primer orden en un modelo normalizado.
 
+2. Identificar y caracterizar las distintas dinámicas del sistema, incluyendo atractores caóticos, órbitas periódicas y ciclos límite.
+
+3. Determinar los puntos de equilibrio del sistema con y sin tratamiento, y evaluar su estabilidad mediante análisis de la matriz Jacobiana.
+
+4. Comparar el comportamiento del sistema entre modelos normalizados y no normalizados para evaluar su escalabilidad y precisión.
+
+5. Analizar el impacto de parámetros clínicos y terapéuticos sobre la dinámica del sistema inmunológico en escenarios de tratamiento.
 
 ## Docente
 Dr. Paul A. Valle
